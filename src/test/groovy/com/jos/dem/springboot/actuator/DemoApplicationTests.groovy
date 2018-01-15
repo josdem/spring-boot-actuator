@@ -1,5 +1,4 @@
-package com.example.springbootactuator
-
+package com.jos.dem.springboot.actuator
 import org.junit.Test
 import org.junit.runner.RunWith
 import org.springframework.boot.test.context.SpringBootTest
